@@ -7,4 +7,6 @@ With the assumption that the data from each class is follows a multivariate norm
 The MLE estimate of the densities is used to calcuate the the posterior probabilites of each class given a test data point.
 Finally We make a classification decision as the class with the higher posterior probability.
 
+**Part 2-**
+
 </div>
