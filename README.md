@@ -1,3 +1,5 @@
+<div style="text-align: left"> 
+
 **Part 1-**
 
 The CSE_569_Maximum_Likelihood_Estimation.ipynb implements a 2 class classifier. The dataset is a subset of data from the MNIST dataset. The feature dimensions are reduced by Principal component analysis.
@@ -5,3 +7,4 @@ With the assumption that the data from each class is follows a multivariate norm
 The MLE estimate of the densities is used to calcuate the the posterior probabilites of each class given a test data point.
 Finally We make a classification decision as the class with the higher posterior probability.
 
+</div>
