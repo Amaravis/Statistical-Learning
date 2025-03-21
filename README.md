@@ -8,5 +8,5 @@ The MLE estimate of the densities is used to calcuate the the posterior probabil
 Finally We make a classification decision as the class with the higher posterior probability.
 
 **Part 2-**
-CSE_569_MLP.ipynb file implements a 3 layer MLP. The loss function used is a MSE loss. A momentum term is also used to speed up convergence.
+CSE_569_MLP.ipynb file implements a 3 layer MLP. The loss function used is a MSE loss. A momentum term is also used to speed up convergence. We also plot the train, test and validation learning curves.
 </div>
